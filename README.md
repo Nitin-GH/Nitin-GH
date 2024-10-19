@@ -2,8 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### Profile views counter 👁️‍🗨️
-
-![Visitor Count](https://github.com/Nitin-GH)/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{(https://github.com/Nitin-GH)}/count.svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
