@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitin Mann</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin-gh&label=Profile%20views&color=0e75b6&style=flat" alt="nitin-gh" /> </p>
+### Profile views counter 👁️‍🗨️
+[![Nitin Mann profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Nitin-GH)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
 
