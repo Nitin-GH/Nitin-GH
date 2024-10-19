@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### Profile views counter 👁️‍🗨️
-![](https://komarev.com/ghpvc/?username=your-github-Nitin-GH&color=a93226&style=for-the-badge&label=PROFILE+View&base=475)
+![](https://komarev.com/ghpvc/?username=your-github-Nitin-GH&color=229954&style=for-the-badge&label=PROFILE+View&base=475)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
