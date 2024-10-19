@@ -5,9 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Nitin-GH&color=229954&style=for-the-badge&label=PROFILE+View&base=475)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **mahcine learning,LML,ethical Hacking using kali linux**
 
@@ -43,4 +40,9 @@
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-gh&show_icons=true&locale=en&layout=compact" alt="nitin-gh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
