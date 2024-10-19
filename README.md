@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Mann</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-# Profile views counter 👁️‍🗨️
+### Profile views counter 👁️‍🗨️
 ![](https://komarev.com/ghpvc/?username=your-github-Nitin-GH&color=229954&style=for-the-badge&label=PROFILE+View&base=475)
 
 
