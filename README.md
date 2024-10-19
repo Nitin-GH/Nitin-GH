@@ -3,7 +3,7 @@
 
 ### Profile views counter 👁️‍🗨️
 
-![Visitor Count]([https://profile-counter.glitch.me/{YOUR USE}](https://github.com/Nitin-GH)/count.svg)
+![Visitor Count](https://github.com/Nitin-GH)/count.svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
