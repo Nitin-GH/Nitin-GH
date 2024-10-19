@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ### Profile views counter 👁️‍🗨️
-[![Nitin Mann profile views](https://u8views.com/api/v1/github/profiles/789/views/day-week-month-total-count.svg)](https://u8views.com/github/Nitin-GH)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
