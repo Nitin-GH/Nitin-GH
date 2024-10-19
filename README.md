@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **mahcine learning,LML,ethical Hacking using kali linux**
 
-- 💬 Ask me about **python,java,android.**
+- 💬 Ask me about **python, Java , R, android.**
 
 <h4>Connect with me</h4>
 
