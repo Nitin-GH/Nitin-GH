@@ -12,7 +12,7 @@
 
 <h4>Connect with me</h4>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-229954?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) 
