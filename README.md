@@ -42,6 +42,9 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue&labelColor=f2f3f4)
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=black&labelColor=f2f3f4)
 
+<h4>Preferred Operating System</h4>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-gh&show_icons=true&locale=en&layout=compact" alt="nitin-gh" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-gh" alt="nitin-gh" /></a> </p>
