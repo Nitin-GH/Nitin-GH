@@ -30,8 +30,7 @@
 <h4>Preferred IED's</h4>
 
 
-![Visual Studio Code](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=visual studio&logoColor=white)
-
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-28b463?style=for-the-badge&logo=pycharm&logoColor=black&color=c807b0&labelColor=f2f3f4)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=black&labelColor=f2f3f4)
 ![Notepad++](https://img.shields.io/badge/Notepad++-28b463.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black&labelColor=f2f3f4)
