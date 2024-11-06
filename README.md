@@ -69,7 +69,7 @@
 <h4>Preferred Operating System</h4>
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=f2f3f4)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-273746?style=for-the-badge&logo=kali-linux&logoColor=black&labelColor=f2f3f4)
 ![Android](https://img.shields.io/badge/Android-28b463?style=for-the-badge&logo=android&logoColor=black&labelColor=f2f3f4)
 
