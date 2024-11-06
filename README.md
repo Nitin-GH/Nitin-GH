@@ -55,7 +55,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-273746?style=for-the-badge&logo=kali-linux&logoColor=black&labelColor=f2f3f4)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black&labelColor=f2f3f4)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-gh&show_icons=true&locale=en&layout=compact" alt="nitin-gh" /></p>
