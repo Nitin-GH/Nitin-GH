@@ -21,19 +21,19 @@
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-365cdf?style=for-the-badge&logo=python&logoColor=f4d03f&labelColor=1b4f72)
-![Java](https://img.shields.io/badge/java-2980b9.svg?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=blue&labelColor=white)
+![Java](https://img.shields.io/badge/java-2980b9.svg?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=f2f3f4)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=blue&labelColor=f2f3f4)
 </p>
 
 
 <h4>Preferred IED's</h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-28b463?style=for-the-badge&logo=pycharm&logoColor=black&color=c807b0&labelColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=black&labelColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-28b463.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black&labelColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-28b463?style=for-the-badge&logo=pycharm&logoColor=black&color=c807b0&labelColor=f2f3f4)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=black&labelColor=f2f3f4)
+![Notepad++](https://img.shields.io/badge/Notepad++-28b463.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black&labelColor=f2f3f4)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=f2f3f4)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=f2f3f4)
 </p>
 
 <h4>Preferred sites to learn from</h4>
