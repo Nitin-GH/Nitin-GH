@@ -32,7 +32,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-28b463?style=for-the-badge&logo=pycharm&logoColor=white&color=c807b0&labelColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=black)
 ![Notepad++](https://img.shields.io/badge/Notepad++-28b463.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=white&labelColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 </p>
 
