@@ -14,6 +14,7 @@
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red&labelColor=f2f3f4)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-229954?style=for-the-badge&logo=whatsapp&logoColor=green&labelColor=f2f3f4)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=black&labelColor=f2f3f4)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=black&labelColor=f2f3f4) 
 
@@ -35,6 +36,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-FE7A16.svg?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=f2f3f4)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=f2f3f4)
 </p>
+
+<h4>Preferred Work Offices</h4>
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <h4>Preferred sites to learn from</h4>
 
