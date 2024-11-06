@@ -45,7 +45,7 @@
 <h4>Preferred Operating System</h4>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-273746?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=f2f3f4)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-273746?style=for-the-badge&logo=kali-linux&logoColor=black&labelColor=f2f3f4)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-gh&show_icons=true&locale=en&layout=compact" alt="nitin-gh" /></p>
 
