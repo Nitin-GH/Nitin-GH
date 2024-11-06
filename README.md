@@ -21,7 +21,7 @@
 <h4>Programming Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-365cdf?style=for-the-badge&logo=python&logoColor=f4d03f&labelColor=1b4f72)
-![Java](https://img.shields.io/badge/java-2980b9.svg?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=1b4f72)
+![Java](https://img.shields.io/badge/java-2980b9.svg?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 </p>
 
