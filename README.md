@@ -39,7 +39,7 @@
 <h4>Preferred sites to learn from</h4>
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=black&labelColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=blue&labelColor=white)
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=black&labelColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-gh&show_icons=true&locale=en&layout=compact" alt="nitin-gh" /></p>
